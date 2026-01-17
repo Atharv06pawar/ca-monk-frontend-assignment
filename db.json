@@ -1,0 +1,23 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": ["FINANCE", "TECH"],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "Full blog content..."
+    },
+    {
+      "id": 2,
+      "title": "Design Systems in 2026",
+      "category": ["UI", "UX"],
+      "description": "Why design systems are the backbone of scalable products",
+      "date": "2026-01-12T10:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg",
+      "content": "Full blog content..."
+    }
+  ]
+}
+
