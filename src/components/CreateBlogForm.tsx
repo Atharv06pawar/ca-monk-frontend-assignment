@@ -53,7 +53,18 @@ export default function CreateBlogForm() {
         <Button>Create Blog</Button>
       </DialogTrigger>
 
-      <DialogContent className="sm:max-w-lg">
+      {/* Solid, professional modal surface */}
+      <DialogContent
+        className="sm:max-w-lg shadow-2xl border border-gray-200"
+        style={{
+            backgroundColor: "#ffffff",
+            color: "#000000",
+            width: "80%",
+            padding: "40px 40px 32px 40px",
+            borderRadius: "20px",
+  }}
+>
+
         <DialogHeader>
           <DialogTitle>Create New Blog</DialogTitle>
         </DialogHeader>
