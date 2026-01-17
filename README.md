@@ -22,3 +22,18 @@ A split-view blog application built with **React**, **Vite**, **Tailwind CSS**, 
 
 ```bash
 npm install
+
+Start the mock API (assumes JSON Server on port 3000):
+
+npx json-server --watch db.json --port 3000
+
+
+Run the app:
+
+npm run dev
+
+
+Open: http://localhost:5173
+
+
+This makes your submission feel *complete*—not just “code that works,” but a real project.
